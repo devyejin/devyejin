@@ -35,8 +35,12 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   </div>
 </div>
-</div> <div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2><br> 
+</div>
+
+<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2><br> 
 <a href="mailto:yejinoh58@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=devyejin&bg_color=60,a8e6cf,6677cc&title_color=ffffff&text_color=ffffff" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyejin&layout=compact&bg_color=60,a8e6cf,6677cc&title_color=ffffff&text_color=ffffff" /> </div> </div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=icelattebest)](https://solved.ac/icelattebest) 
